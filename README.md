@@ -1,2 +1,2 @@
 # hello-world
-testing
+M-am hotarat sa vad ce se intampla daca scriu aici ceva
